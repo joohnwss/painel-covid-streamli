@@ -1,0 +1,196 @@
+"v1013","mes_nome","categoria_ocupacional","formalidade_trabalho","grau_isolamento","n_amostra","populacao_estimada","pct_trabalhou","pct_home_office","pct_internado_entre_atendidos"
+"11","Novembro",,"Nao aplicavel/Sem informacao","So saiu por saude","39456","2.1880644E7","0.0",,"11.9013"
+"11","Novembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","So saiu por saude","149","44993.0","89.1821","100.0","0.0"
+"11","Novembro","Fora do mercado","Nao aplicavel/Sem informacao","So saiu por saude","411","154753.0","97.1092",,"71.5732"
+"10","Outubro","Setor privado","Informal","Pouca restricao","11086","6501446.0","98.158","48.8328","5.6827"
+"11","Novembro","Fora do mercado","Nao aplicavel/Sem informacao","Ficou em casa","2168","842037.0","97.4841",,"8.1276"
+"10","Outubro","Conta propria","Nao aplicavel/Sem informacao","Ficou em casa","9130","4460294.0","91.1457","68.0233","9.3254"
+"10","Outubro","Domestico","Formal",,"5","2581.0","100.0",,
+"11","Novembro","Domestico","Formal","Pouca restricao","1607","931408.0","97.754",,"0.0"
+"11","Novembro","Setor publico","Informal","Pouca restricao","3036","1488599.0","95.2461","85.7151","0.0"
+"10","Outubro","Setor publico","Informal","So saiu por saude","94","51451.0","67.2758","86.1227","0.0"
+"11","Novembro",,"Nao aplicavel/Sem informacao","Pouca restricao","60319","3.2707891E7","0.0",,"6.6542"
+"11","Novembro","Setor publico","Informal","So saiu por saude","79","36784.0","56.6993","96.0289","0.0"
+"10","Outubro","Empregador","Nao aplicavel/Sem informacao","Ficou em casa","493","310995.0","92.3395","96.685","29.9204"
+"10","Outubro","Militar","Nao aplicavel/Sem informacao","Ficou em casa","57","29289.0","86.8883","100.0",
+"11","Novembro","Conta propria","Nao aplicavel/Sem informacao","Pouca restricao","32077","1.7564742E7","98.3588","32.8468","3.8917"
+"11","Novembro","Domestico","Informal","Ficou em casa","998","527984.0","85.1472",,"0.0"
+"11","Novembro","Fora do mercado","Nao aplicavel/Sem informacao","Pouca restricao","2276","871253.0","98.3434",,"0.0"
+"11","Novembro","Setor publico","Formal","So saiu por saude","405","222955.0","55.6628","98.6335","8.1364"
+"10","Outubro","Setor privado","Informal","So saiu por saude","267","136825.0","77.0","78.3906","8.4722"
+"10","Outubro","Domestico","Informal","So saiu por saude","116","56338.0","66.4471",,"48.3323"
+"10","Outubro","Setor publico","Formal",,"34","16654.0","89.2984","93.2383",
+"10","Outubro","Domestico","Formal","Sem restricao","96","63826.0","90.5254",,"0.0"
+"11","Novembro","Setor privado","Formal","Ficou em casa","6101","4072656.0","81.1189","95.8805","11.1461"
+"10","Outubro",,"Nao aplicavel/Sem informacao","So saiu por saude","44768","2.458991E7","0.0",,"16.785"
+"10","Outubro","Setor privado","Formal",,"142","108027.0","97.5812","95.8601",
+"10","Outubro","Empregador","Nao aplicavel/Sem informacao",,"16","17319.0","92.3903","0.0",
+"11","Novembro","Setor publico","Formal","Pouca restricao","12095","6368716.0","93.8335","91.8411","9.4278"
+"10","Outubro","Domestico","Formal","Ficou em casa","359","179953.0","79.8418",,
+"11","Novembro","Setor privado","Informal","Pouca restricao","11218","6573277.0","98.3252","47.176","6.1789"
+"11","Novembro","Militar","Nao aplicavel/Sem informacao","So saiu por saude","14","6896.0","63.4011","100.0","0.0"
+"11","Novembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Ficou em casa","1010","358257.0","94.3566","27.934","0.0"
+"11","Novembro","Fora do mercado","Nao aplicavel/Sem informacao","Sem restricao","252","84785.0","100.0",,
+"10","Outubro","Conta propria","Nao aplicavel/Sem informacao","Pouca restricao","31315","1.7204531E7","98.2723","33.2652","5.8818"
+"11","Novembro","Setor privado","Informal","Ficou em casa","2099","1211963.0","87.7856","78.2388","0.0"
+"11","Novembro","Setor privado","Formal",,"111","87538.0","92.6217","89.2596","100.0"
+"10","Outubro","Setor privado","Informal","Ficou em casa","2143","1235476.0","89.0505","80.0311","7.5603"
+"10","Outubro","Militar","Nao aplicavel/Sem informacao","Sem restricao","48","25524.0","84.6135","47.9114",
+"11","Novembro","Setor publico","Informal","Sem restricao","308","150309.0","93.4616","91.0845","0.0"
+"11","Novembro","Domestico","Formal","Sem restricao","109","72339.0","96.4204",,"0.0"
+"10","Outubro","Setor publico","Informal","Ficou em casa","916","436712.0","73.6538","98.6841","0.0"
+"10","Outubro","Setor privado","Formal","Sem restricao","2467","1634164.0","95.9643","66.9833","5.1152"
+"10","Outubro","Conta propria","Nao aplicavel/Sem informacao",,"125","80575.0","98.144","46.0261",
+"10","Outubro","Policial ou bombeiro","Nao aplicavel/Sem informacao",,"3","1435.0","100.0",,
+"11","Novembro","Conta propria","Nao aplicavel/Sem informacao",,"92","65199.0","99.3416","48.2505",
+"10","Outubro","Domestico","Informal","Pouca restricao","3869","2108981.0","97.9826",,"13.8025"
+"10","Outubro","Domestico","Informal","Ficou em casa","993","493451.0","83.0331",,"10.3279"
+"10","Outubro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Ficou em casa","61","39420.0","82.5582","44.8357","0.0"
+"11","Novembro","Conta propria","Nao aplicavel/Sem informacao","Ficou em casa","8704","4292797.0","90.6283","67.447","4.1889"
+"11","Novembro","Setor publico","Informal","Ficou em casa","882","420487.0","75.7835","97.3585","13.0255"
+"10","Outubro",,"Nao aplicavel/Sem informacao","Pouca restricao","54673","2.9830124E7","0.0",,"8.8704"
+"10","Outubro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Ficou em casa","1080","385064.0","96.1313","43.2001","0.0"
+"11","Novembro","Setor privado","Formal","So saiu por saude","673","458057.0","59.5766","95.6419","7.9523"
+"10","Outubro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Sem restricao","49","39136.0","90.8967","100.0",
+"10","Outubro","Empregador","Nao aplicavel/Sem informacao","Sem restricao","379","248188.0","99.2665","41.4301","0.0"
+"10","Outubro",,"Nao aplicavel/Sem informacao","Sem restricao","8656","4726318.0","0.0",,"20.8444"
+"10","Outubro","Domestico","Formal","Pouca restricao","1622","934904.0","97.5922",,"0.0"
+"10","Outubro","Domestico","Informal","Sem restricao","243","149481.0","94.6479",,"0.0"
+"11","Novembro","Setor privado","Formal","Pouca restricao","38771","2.5733128E7","97.6004","74.3251","3.9893"
+"10","Outubro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Pouca restricao","1933","845752.0","98.4872","5.9112","0.0"
+"10","Outubro","Setor privado","Formal","Pouca restricao","37885","2.5220026E7","97.3729","74.7364","1.6204"
+"10","Outubro","Setor publico","Informal","Pouca restricao","3025","1487725.0","94.3378","84.5466","0.0"
+"10","Outubro","Fora do mercado","Nao aplicavel/Sem informacao","Sem restricao","250","99276.0","98.914",,
+"11","Novembro","Militar","Nao aplicavel/Sem informacao","Ficou em casa","57","35394.0","92.2631","82.4425","0.0"
+"10","Outubro","Setor publico","Formal","Ficou em casa","4552","2373679.0","72.3135","98.1509","18.0577"
+"10","Outubro","Familiar nao remunerado","Nao aplicavel/Sem informacao","So saiu por saude","162","45484.0","95.1875","79.1519","0.0"
+"10","Outubro","Fora do mercado","Nao aplicavel/Sem informacao","So saiu por saude","452","167739.0","96.1971",,"42.9796"
+"11","Novembro","Empregador","Nao aplicavel/Sem informacao","Pouca restricao","3450","2028790.0","99.0735","80.1051","2.8916"
+"11","Novembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Pouca restricao","2080","901535.0","99.0745","18.86","0.0"
+"10","Outubro","Empregador","Nao aplicavel/Sem informacao","Pouca restricao","3430","2007717.0","99.2903","78.2071","10.9625"
+"10","Outubro","Setor publico","Formal","So saiu por saude","453","230594.0","54.836","97.7015","8.6632"
+"11","Novembro","Domestico","Formal","Ficou em casa","386","192974.0","80.0752",,"18.5676"
+"10","Outubro",,"Nao aplicavel/Sem informacao","Ficou em casa","121245","6.5495037E7","0.0",,"13.0275"
+"10","Outubro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Pouca restricao","538","317927.0","95.2894","30.2241","0.0"
+"11","Novembro","Conta propria","Nao aplicavel/Sem informacao","So saiu por saude","943","446186.0","80.8359","74.6423","1.2581"
+"10","Outubro","Setor privado","Informal","Sem restricao","1015","598059.0","96.6568","32.9084","0.0"
+"11","Novembro",,"Nao aplicavel/Sem informacao","Sem restricao","9186","5054127.0","0.0",,"1.1107"
+"11","Novembro","Domestico","Formal","So saiu por saude","42","27992.0","47.9937",,"0.0"
+"11","Novembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Ficou em casa","60","29912.0","77.761","33.4253",
+"10","Outubro","Fora do mercado","Nao aplicavel/Sem informacao",,"15","5932.0","100.0",,
+"11","Novembro","Domestico","Informal","Sem restricao","277","145605.0","93.8663",,
+"11","Novembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Sem restricao","221","92338.0","98.9087","0.0",
+"11","Novembro","Militar","Nao aplicavel/Sem informacao","Pouca restricao","460","258513.0","97.6696","82.4908","0.0"
+"10","Outubro","Setor publico","Formal","Sem restricao","814","425292.0","87.5696","82.8214","0.0"
+"11","Novembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Pouca restricao","572","332377.0","95.7684","22.5301","0.0"
+"10","Outubro","Conta propria","Nao aplicavel/Sem informacao","So saiu por saude","999","469525.0","82.7913","70.448","5.8264"
+"10","Outubro","Setor publico","Informal","Sem restricao","259","128707.0","91.5354","76.8269","0.0"
+"10","Outubro","Domestico","Formal","So saiu por saude","53","34204.0","47.9887",,"64.2209"
+"11","Novembro","Setor privado","Informal","Sem restricao","1021","582641.0","96.1811","49.7566","0.0"
+"10","Outubro","Setor privado","Formal","So saiu por saude","684","435547.0","58.8714","98.161","4.6833"
+"11","Novembro","Setor publico","Formal","Ficou em casa","4230","2183048.0","73.4375","98.4597","16.2681"
+"11","Novembro","Militar","Nao aplicavel/Sem informacao","Sem restricao","48","28784.0","93.9152","0.0",
+"11","Novembro","Empregador","Nao aplicavel/Sem informacao","Ficou em casa","461","287038.0","94.4191","97.9303","0.0"
+"11","Novembro",,"Nao aplicavel/Sem informacao",,"986","566856.0","0.0",,"23.5078"
+"10","Outubro","Setor publico","Informal",,"7","2358.0","100.0","100.0",
+"11","Novembro","Empregador","Nao aplicavel/Sem informacao","Sem restricao","388","250275.0","99.1848","58.1465","0.0"
+"10","Outubro",,"Nao aplicavel/Sem informacao",,"1301","769489.0","0.0",,"87.0852"
+"11","Novembro",,"Nao aplicavel/Sem informacao","Ficou em casa","120572","6.4822992E7","0.0",,"12.1918"
+"11","Novembro","Empregador","Nao aplicavel/Sem informacao","So saiu por saude","79","38715.0","72.2788","100.0","3.2575"
+"10","Outubro","Setor privado","Informal",,"28","14756.0","94.0405","75.2936",
+"11","Novembro","Setor privado","Formal","Sem restricao","2441","1713471.0","96.9429","80.1971","0.0"
+"11","Novembro","Domestico","Informal","So saiu por saude","90","49753.0","66.0683",,"0.0"
+"10","Outubro","Fora do mercado","Nao aplicavel/Sem informacao","Pouca restricao","2218","855119.0","98.5574",,"0.0"
+"11","Novembro","Conta propria","Nao aplicavel/Sem informacao","Sem restricao","2729","1541272.0","97.1823","20.7096","0.0"
+"10","Outubro","Militar","Nao aplicavel/Sem informacao","Pouca restricao","462","270491.0","98.7446","57.9968","0.0"
+"10","Outubro","Fora do mercado","Nao aplicavel/Sem informacao","Ficou em casa","2236","849513.0","96.6742",,"0.0"
+"11","Novembro","Domestico","Informal","Pouca restricao","3994","2125734.0","97.9251",,"0.0"
+"11","Novembro","Setor privado","Informal","So saiu por saude","229","128728.0","68.4127","82.8781","18.0809"
+"10","Outubro","Setor publico","Formal","Pouca restricao","11628","6209220.0","93.3934","90.8825","1.5501"
+"11","Novembro","Setor publico","Formal","Sem restricao","830","454315.0","91.4765","85.1704","0.0"
+"10","Outubro","Setor privado","Formal","Ficou em casa","6513","4411260.0","80.8915","95.1614","1.7515"
+"10","Outubro","Conta propria","Nao aplicavel/Sem informacao","Sem restricao","2646","1488530.0","97.745","24.4076","0.0"
+"10","Outubro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Sem restricao","216","86628.0","99.158","0.0","0.0"
+"9","Setembro","Domestico","Formal","Pouca restricao","1625","927243.0","97.5547",,"0.0"
+"9","Setembro","Militar","Nao aplicavel/Sem informacao","Sem restricao","33","17822.0","96.2388","0.0",
+"9","Setembro",,"Nao aplicavel/Sem informacao","Sem restricao","5684","3117395.0","0.0",,"5.8084"
+"9","Setembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Sem restricao","125","55732.0","99.3311","0.0","0.0"
+"9","Setembro","Setor privado","Formal",,"132","87146.0","82.9412","100.0",
+"9","Setembro","Setor privado","Informal",,"48","27309.0","96.7235","88.2947",
+"11","Novembro","Setor privado","Informal",,"24","18276.0","90.3151","11.1385",
+"9","Setembro","Setor privado","Formal","So saiu por saude","940","617026.0","60.8926","98.6672","11.3737"
+"9","Setembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Ficou em casa","1257","443748.0","95.0248","32.7901","0.0"
+"9","Setembro","Empregador","Nao aplicavel/Sem informacao","Sem restricao","259","156400.0","99.1574","84.4206","0.0"
+"9","Setembro","Conta propria","Nao aplicavel/Sem informacao",,"156","81854.0","86.4541","68.9263","100.0"
+"9","Setembro","Empregador","Nao aplicavel/Sem informacao","Pouca restricao","3613","2103997.0","99.2321","79.4518","6.0131"
+"9","Setembro","Conta propria","Nao aplicavel/Sem informacao","So saiu por saude","1363","579317.0","79.0589","75.3653","9.8935"
+"9","Setembro","Militar","Nao aplicavel/Sem informacao","So saiu por saude","9","5192.0","86.771","100.0",
+"9","Setembro","Setor publico","Formal",,"44","19637.0","72.6147","100.0",
+"9","Setembro","Domestico","Informal","So saiu por saude","147","70283.0","67.1615",,"0.0"
+"9","Setembro","Domestico","Formal","Ficou em casa","401","198924.0","76.1362",,"0.0"
+"11","Novembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","So saiu por saude","3","4356.0","45.6521",,"0.0"
+"9","Setembro","Setor privado","Informal","Sem restricao","639","358379.0","97.2636","28.7927","0.0"
+"9","Setembro","Conta propria","Nao aplicavel/Sem informacao","Sem restricao","1779","1047141.0","97.4234","29.8379","0.0"
+"11","Novembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Sem restricao","55","35208.0","97.4157","55.9109",
+"9","Setembro",,"Nao aplicavel/Sem informacao","Pouca restricao","42207","2.2635211E7","0.0",,"8.6745"
+"9","Setembro","Setor privado","Formal","Sem restricao","1579","1098184.0","94.5403","76.2835","19.5998"
+"9","Setembro","Setor publico","Informal",,"15","8587.0","89.6288","100.0",
+"9","Setembro","Setor privado","Informal","Pouca restricao","10686","6101707.0","98.3766","44.9452","6.5111"
+"9","Setembro","Militar","Nao aplicavel/Sem informacao","Ficou em casa","67","36465.0","82.764","100.0","0.0"
+"9","Setembro","Setor publico","Informal","So saiu por saude","120","53111.0","56.9142","100.0","0.0"
+"11","Novembro","Setor publico","Formal",,"31","14990.0","80.264","87.8191",
+"9","Setembro","Empregador","Nao aplicavel/Sem informacao","Ficou em casa","568","335454.0","92.0147","99.0427","0.0"
+"9","Setembro","Fora do mercado","Nao aplicavel/Sem informacao","So saiu por saude","626","205139.0","97.0452",,"0.0"
+"9","Setembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Ficou em casa","67","32343.0","70.8552","39.6387","0.0"
+"9","Setembro","Setor publico","Informal","Pouca restricao","2906","1408078.0","94.9259","86.024","6.5553"
+"9","Setembro","Setor privado","Formal","Ficou em casa","7532","5042925.0","77.7506","95.7908","6.9612"
+"9","Setembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","So saiu por saude","220","67547.0","89.8976","29.2179","0.0"
+"9","Setembro","Setor privado","Informal","Ficou em casa","2626","1439459.0","85.2971","81.8982","0.0"
+"9","Setembro","Setor publico","Formal","Pouca restricao","11126","5816930.0","93.8431","90.4729","5.8412"
+"9","Setembro","Domestico","Informal","Pouca restricao","3693","1993265.0","97.4789",,"0.0"
+"9","Setembro","Empregador","Nao aplicavel/Sem informacao","So saiu por saude","94","62517.0","62.2396","95.2325","22.9063"
+"9","Setembro","Setor privado","Formal","Pouca restricao","37712","2.4562531E7","97.4663","72.7136","2.3886"
+"9","Setembro","Domestico","Informal","Ficou em casa","1191","588708.0","81.9701",,"0.0"
+"9","Setembro","Setor publico","Formal","Sem restricao","492","253798.0","89.959","82.569","0.0"
+"9","Setembro","Fora do mercado","Nao aplicavel/Sem informacao","Sem restricao","140","56517.0","97.2018",,
+"9","Setembro","Setor publico","Informal","Ficou em casa","1188","557493.0","71.7288","96.1527","0.0"
+"9","Setembro","Fora do mercado","Nao aplicavel/Sem informacao","Ficou em casa","2453","931519.0","96.6745",,"0.0"
+"9","Setembro","Fora do mercado","Nao aplicavel/Sem informacao","Pouca restricao","1977","718470.0","98.3318",,
+"9","Setembro","Setor privado","Informal","So saiu por saude","351","192991.0","72.417","91.0036","26.668"
+"9","Setembro","Militar","Nao aplicavel/Sem informacao","Pouca restricao","462","263702.0","96.6536","80.3176","0.0"
+"9","Setembro","Setor publico","Formal","Ficou em casa","5435","2789957.0","71.6533","98.6558","5.7714"
+"9","Setembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Sem restricao","52","40629.0","96.4061","42.0662",
+"9","Setembro","Domestico","Informal","Sem restricao","184","102932.0","97.5532",,"0.0"
+"9","Setembro","Setor publico","Informal","Sem restricao","157","73816.0","91.7235","68.504",
+"9","Setembro","Domestico","Formal","Sem restricao","68","47720.0","82.2058",,
+"9","Setembro",,"Nao aplicavel/Sem informacao","Ficou em casa","127932","6.7696616E7","0.0",,"9.5924"
+"9","Setembro",,"Nao aplicavel/Sem informacao",,"1470","813487.0","0.0",,"65.103"
+"9","Setembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","Pouca restricao","557","323142.0","97.4473","38.1337","0.0"
+"9","Setembro","Empregador","Nao aplicavel/Sem informacao",,"14","15737.0","76.8626","67.6579",
+"9","Setembro",,"Nao aplicavel/Sem informacao","So saiu por saude","59237","3.2269713E7","0.0",,"20.1332"
+"9","Setembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","Pouca restricao","1878","807617.0","98.8233","23.8766","48.7924"
+"9","Setembro","Conta propria","Nao aplicavel/Sem informacao","Ficou em casa","10727","5191183.0","91.0002","68.1223","2.6426"
+"9","Setembro","Conta propria","Nao aplicavel/Sem informacao","Pouca restricao","30432","1.6437085E7","98.1793","31.375","5.7323"
+"9","Setembro","Setor publico","Formal","So saiu por saude","668","327107.0","56.5095","98.5632","3.7164"
+"9","Setembro","Domestico","Formal","So saiu por saude","79","48419.0","59.869",,"37.97"
+"11","Novembro","Domestico","Formal",,"3","1341.0","100.0",,
+"11","Novembro","Setor publico","Informal",,"10","5219.0","61.7971","100.0",
+"11","Novembro","Empregador","Nao aplicavel/Sem informacao",,"20","8697.0","87.2688",,
+"11","Novembro","Familiar nao remunerado","Nao aplicavel/Sem informacao",,"11","4823.0","100.0",,
+"11","Novembro","Fora do mercado","Nao aplicavel/Sem informacao",,"19","6214.0","96.3975",,
+"11","Novembro","Domestico","Informal",,"8","2861.0","82.8442",,
+"9","Setembro","Domestico","Informal",,"10","3097.0","67.0032",,
+"9","Setembro","Fora do mercado","Nao aplicavel/Sem informacao",,"15","14142.0","100.0",,
+"9","Setembro","Militar","Nao aplicavel/Sem informacao",,"5","1614.0","100.0","0.0",
+"10","Outubro","Militar","Nao aplicavel/Sem informacao","So saiu por saude","10","5575.0","40.5612","57.9632","0.0"
+"10","Outubro","Militar","Nao aplicavel/Sem informacao",,"2","841.0","100.0",,
+"10","Outubro","Empregador","Nao aplicavel/Sem informacao","So saiu por saude","90","50083.0","74.203","100.0","50.4248"
+"10","Outubro","Domestico","Informal",,"13","9661.0","85.8351",,
+"10","Outubro","Policial ou bombeiro","Nao aplicavel/Sem informacao","So saiu por saude","9","5032.0","31.7055",,"0.0"
+"9","Setembro","Familiar nao remunerado","Nao aplicavel/Sem informacao",,"12","2833.0","100.0",,
+"10","Outubro","Familiar nao remunerado","Nao aplicavel/Sem informacao",,"13","7380.0","100.0","0.0",
+"11","Novembro","Militar","Nao aplicavel/Sem informacao",,"1","117.0","100.0",,
+"9","Setembro","Domestico","Formal",,"4","4306.0","100.0",,
+"11","Novembro","Policial ou bombeiro","Nao aplicavel/Sem informacao",,"1","458.0","100.0",,
+"9","Setembro","Policial ou bombeiro","Nao aplicavel/Sem informacao","So saiu por saude","9","2683.0","46.5452","100.0","72.9942"
+"9","Setembro","Policial ou bombeiro","Nao aplicavel/Sem informacao",,"1","1420.0","100.0",,
