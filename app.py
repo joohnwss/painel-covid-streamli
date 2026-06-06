@@ -2101,41 +2101,27 @@ st.sidebar.markdown("## PNAD COVID-19")
 st.sidebar.caption("Painel hospitalar · Fase 3")
 st.sidebar.divider()
 
+pagina_sel_sidebar = st.sidebar.radio(
+    "Navegação",
+    list(PAGINAS.keys()),
+    key="pagina_sel_sidebar",
+)
+
 # Detectar mudança de página para resetar mês
-_cur_page = st.session_state.get("pagina_sel", list(PAGINAS.keys())[0])
+_cur_page = st.session_state.get("pagina_sel_sidebar", list(PAGINAS.keys())[0])
 if st.session_state.get("pagina_anterior") != _cur_page:
     st.session_state["mes_selector"] = "Todos"
     st.session_state["pagina_anterior"] = _cur_page
 
-# Sidebar: apenas marca visual (sem navegação)
-st.sidebar.markdown("## PNAD COVID-19")
-st.sidebar.caption("Painel hospitalar · Fase 3")
+st.sidebar.divider()
+mes_global = st.sidebar.selectbox(
+    "Mês de análise", ["Todos"] + meses,
+    key="mes_selector",
+    help="Filtra dados mensais. 'Todos' mostra a média dos meses.",
+)
+st.sidebar.toggle("Modo escuro", key="dark_mode", value=False)
+st.sidebar.caption("No celular, use o menu nativo do Streamlit para abrir e fechar a navegação.")
 
 _aplicar_css()
 
-# ── Top bar ───────────────────────────────────────────────────────────────────
-dark    = is_dark()
-bar_bdr = "#2D3A4A" if dark else "#E2E8F0"
-bar_ink = "#DDE6F0" if dark else "#1F4E79"
-bar_sub = "#8A99AB" if dark else "#5F6B7A"
-
-with st.container(border=True):
-    col_nav, col_mes, col_dark = st.columns([4, 2, 1])
-    with col_nav:
-        pagina_sel = st.selectbox(
-            "Página", list(PAGINAS.keys()),
-            key="pagina_sel",
-            label_visibility="collapsed",
-        )
-    with col_mes:
-        mes_global = st.selectbox(
-            "Mês de análise", ["Todos"] + meses,
-            key="mes_selector",
-            help="Filtra dados mensais. 'Todos' mostra a média dos meses.",
-        )
-    with col_dark:
-        st.markdown("<div style='height:.5rem'></div>", unsafe_allow_html=True)
-        st.toggle("Modo escuro", key="dark_mode", value=False)
-
-st.divider()
-PAGINAS[pagina_sel]()
+PAGINAS[pagina_sel_sidebar]()
