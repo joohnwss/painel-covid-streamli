@@ -2124,8 +2124,27 @@ bar_bdr = "#2D3A4A" if dark else "#E2E8F0"
 bar_ink = "#DDE6F0" if dark else "#1F4E79"
 bar_sub = "#8A99AB" if dark else "#5F6B7A"
 
+st.markdown("""
+<script>
+function abrirMenu() {
+    var btn = document.querySelector('[data-testid="collapsedControl"] button');
+    if (!btn) btn = document.querySelector('button[kind="header"]');
+    if (btn) { btn.click(); }
+}
+</script>
+""", unsafe_allow_html=True)
+
 with st.container(border=True):
-    col_brand, col_mes, col_dark = st.columns([5, 2, 1])
+    col_menu, col_brand, col_mes, col_dark = st.columns([1, 4, 2, 1])
+    with col_menu:
+        st.markdown(
+            f"<div style='display:flex;align-items:center;height:100%;'>"
+            f"<button onclick='abrirMenu()' style='"
+            f"background:none;border:1px solid {bar_bdr};border-radius:6px;"
+            f"padding:.35rem .55rem;cursor:pointer;font-size:1.1rem;color:{bar_ink};"
+            f"line-height:1;' title='Abrir menu'>&#9776;</button></div>",
+            unsafe_allow_html=True,
+        )
     with col_brand:
         st.markdown(
             f"<div style='display:flex;align-items:center;height:100%;padding:.2rem 0;'>"
