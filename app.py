@@ -2105,59 +2105,37 @@ st.sidebar.markdown("## PNAD COVID-19")
 st.sidebar.caption("Painel hospitalar · Fase 3")
 st.sidebar.divider()
 
-_cur_page = st.session_state.get("pagina_sel_radio", list(PAGINAS.keys())[0])
+# Detectar mudança de página para resetar mês
+_cur_page = st.session_state.get("pagina_sel", list(PAGINAS.keys())[0])
 if st.session_state.get("pagina_anterior") != _cur_page:
     st.session_state["mes_selector"] = "Todos"
     st.session_state["pagina_anterior"] = _cur_page
 
-pagina_sel = st.sidebar.radio(
-    "Navegação", list(PAGINAS.keys()),
-    label_visibility="collapsed", key="pagina_sel_radio",
-)
+# Sidebar: apenas marca visual (sem navegação)
+st.sidebar.markdown("## PNAD COVID-19")
+st.sidebar.caption("Painel hospitalar · Fase 3")
 
 _aplicar_css()
 
 # ── Top bar ───────────────────────────────────────────────────────────────────
 dark    = is_dark()
-bar_bg  = "#161B27" if dark else "#FFFFFF"
 bar_bdr = "#2D3A4A" if dark else "#E2E8F0"
 bar_ink = "#DDE6F0" if dark else "#1F4E79"
 bar_sub = "#8A99AB" if dark else "#5F6B7A"
 
-st.markdown("""
-<script>
-function abrirMenu() {
-    var btn = document.querySelector('[data-testid="collapsedControl"] button');
-    if (!btn) btn = document.querySelector('button[kind="header"]');
-    if (btn) { btn.click(); }
-}
-</script>
-""", unsafe_allow_html=True)
-
 with st.container(border=True):
-    col_menu, col_brand, col_mes, col_dark = st.columns([1, 4, 2, 1])
-    with col_menu:
-        st.markdown(
-            f"<div style='display:flex;align-items:center;height:100%;'>"
-            f"<button onclick='abrirMenu()' style='"
-            f"background:none;border:1px solid {bar_bdr};border-radius:6px;"
-            f"padding:.35rem .55rem;cursor:pointer;font-size:1.1rem;color:{bar_ink};"
-            f"line-height:1;' title='Abrir menu'>&#9776;</button></div>",
-            unsafe_allow_html=True,
-        )
-    with col_brand:
-        st.markdown(
-            f"<div style='display:flex;align-items:center;height:100%;padding:.2rem 0;'>"
-            f"<span style='font-size:1.05rem;font-weight:800;color:{bar_ink};'>PNAD COVID-19</span>"
-            f"<span style='font-size:.8rem;color:{bar_sub};margin-left:.6rem;'>"
-            f"Painel hospitalar · Fase 3</span></div>",
-            unsafe_allow_html=True,
+    col_nav, col_mes, col_dark = st.columns([4, 2, 1])
+    with col_nav:
+        pagina_sel = st.selectbox(
+            "Página", list(PAGINAS.keys()),
+            key="pagina_sel",
+            label_visibility="collapsed",
         )
     with col_mes:
         mes_global = st.selectbox(
             "Mês de análise", ["Todos"] + meses,
             key="mes_selector",
-            help="Filtra dados mensais. 'Todos' usa o último mês disponível.",
+            help="Filtra dados mensais. 'Todos' mostra a média dos meses.",
         )
     with col_dark:
         st.markdown("<div style='height:.5rem'></div>", unsafe_allow_html=True)
